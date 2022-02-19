@@ -9,4 +9,4 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ### `Top View project on netlify`
-Open [https://determined-ride-36965e.netlify.app/](here) to view it in your browser.
+Click [here](https://determined-ride-36965e.netlify.app/) to view the project.
