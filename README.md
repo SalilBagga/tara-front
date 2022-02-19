@@ -1,7 +1,7 @@
 # About storage 
 As I wasnt sure about the storage so i made a local storage that takes array and stores object of title ,description and user 
 
-#React
+##React
 As this project is made of react 
 use 
 ### `npm start`
